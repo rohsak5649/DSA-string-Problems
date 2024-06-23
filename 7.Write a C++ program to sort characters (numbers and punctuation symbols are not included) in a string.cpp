@@ -7,6 +7,7 @@ string sort_char(string text) {
     char ch;
     int n = text.length();
 
+    
     do {
         flag = false;
 
